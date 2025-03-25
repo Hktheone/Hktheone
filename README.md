@@ -1,16 +1,16 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://banner2.cleanpng.com/20180810/qzu/87c3bb42c23d1b88444498654b7c3d89.webp" alt="java" width="50" height="50"/>
+        <img src="https://banner2.cleanpng.com/20180810/qzu/87c3bb42c23d1b88444498654b7c3d89.webp" alt="java" width="50" height="150"/>
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://www.thoughtwin.com/assets/img/angular_img.gif" alt="angular" width="50" height="50"/>
+        <img src="https://www.thoughtwin.com/assets/img/angular_img.gif" alt="angular" width="50" height="150"/>
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3o3zoqb5ysrcuujnyoz9.gif" alt="spring boot" height="50"/>
+        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3o3zoqb5ysrcuujnyoz9.gif" alt="spring boot" height="150"/>
     </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2szdmVidWFnazV4bXIwMjE4dmRwcGRuem00ZThxeG9wNWs4a2Q3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" alt="python" width="50" height="50"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2szdmVidWFnazV4bXIwMjE4dmRwcGRuem00ZThxeG9wNWs4a2Q3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" alt="python" width="50" height="150"/>
     </a>
 </p>
 
