@@ -1,7 +1,7 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://banner2.cleanpng.com/20180810/qzu/87c3bb42c23d1b88444498654b7c3d89.webp" alt="java" width="150" height="150"/>
+        <img src="https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif" alt="java" width = "150" overflow = "hidden" height="150"/>
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://www.thoughtwin.com/assets/img/angular_img.gif" alt="angular" width="150" height="150"/>
