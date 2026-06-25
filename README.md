@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://www.codewars.com/users/HKTHEONE" target="_blank">
-    <img src="https://img.shields.io/badge/Code-Wars-red?logo=codewars" />
+    <img src="https://img.shields.io/badge/CodeWars-FF0000?style=for-the-badge&logo=codewars&logoColor=white" />
   </a>
 </p>
 
