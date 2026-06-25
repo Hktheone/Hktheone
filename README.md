@@ -1,28 +1,96 @@
-<h3 align="center">Tech Stack</h3>
+<h1 align="center">
+  Hey, I'm Hassnain Ali 👋
+</h1>
+
 <p align="center">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://docs.oracle.com/javase/8/docs/technotes/guides/deploy/img/java8_splash.gif" alt="java" width = "150" overflow = "hidden" height="150"/>
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://www.thoughtwin.com/assets/img/angular_img.gif" alt="angular" width="150" height="150"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3o3zoqb5ysrcuujnyoz9.gif" alt="spring boot" height="150"/>
-    </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2szdmVidWFnazV4bXIwMjE4dmRwcGRuem00ZThxeG9wNWs4a2Q3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" alt="python" width="150" height="150"/>
-    </a>
+  <b>Full Stack Developer</b> · Java & Angular · 4 Years of Experience · Based in Doha, Qatar 🇶🇦
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hassnain-ali-4b398717a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassnain-ali-4b398717a" height="30" width="40" /></a>
-<a href="https://kaggle.com/hktheone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hktheone" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@khasnainali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@khasnainali" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/hassnain-ali-4b398717a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/hktheone" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.hackerearth.com/@khasnainali" target="_blank">
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hktheone&show_icons=true&locale=en&layout=compact" alt="hktheone" /></p>
+## 🧑‍💻 About Me
+
+I'm a Full Stack Developer with **4 years of experience** building enterprise-grade applications. My work spans backend services with **Java & Spring Boot**, responsive front-ends with **Angular**, and robust databases including **PostgreSQL**, **Oracle 11c**, and general **SQL**.
+
+I'm passionate about clean architecture, microservices, and writing code that scales — whether that's a government-scale backend API or a modern single-page application.
+
+- 🔭 Currently working on enterprise microservices and full-stack Angular/Spring Boot projects
+- 🌱 Exploring Python for automation and data workflows
+- 💬 Ask me about Java, Spring Boot, Angular, REST APIs, or database design
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/hassnain-ali-4b398717a)
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_11c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hktheone&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassnain's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hktheone&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hktheone&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏗️ What I Build
+
+```
+✅ RESTful & gRPC microservices with Spring Boot
+✅ Scalable Angular SPAs with PrimeNG & RxJS
+✅ Database design with PostgreSQL & Oracle 11c
+✅ JWT-secured APIs with Hibernate/JPA
+✅ Automated E2E testing with Playwright
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hktheone&color=blue&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center"><i>"Build things that last. Write code you'd be proud to read six months later."</i></p>
