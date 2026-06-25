@@ -131,10 +131,6 @@ Full Stack Developer with **4 years of enterprise experience** in Java and Angul
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hktheone&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassnain's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hktheone&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
