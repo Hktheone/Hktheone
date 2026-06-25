@@ -13,8 +13,8 @@
   <a href="https://kaggle.com/hktheone" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://www.hackerearth.com/@khasnainali" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" />
+  <a href="https://www.codewars.com/users/HKTHEONE" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" />
   </a>
 </p>
 
