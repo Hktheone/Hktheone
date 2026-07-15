@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-Full Stack Developer with **4 years of enterprise experience** in Java and Angular, working across government-adjacent logistics, customs, and large enterprise platforms in Qatar and Pakistan. I specialize in **Spring Boot microservices**, **Angular SPAs**, and **REST/gRPC API development** — building systems that are secure, scalable, and maintainable.
+Full Stack Developer with **5 years of enterprise experience** in Java and Angular, working across government-adjacent logistics, customs, and large enterprise platforms in Qatar and Pakistan. I specialize in **Spring Boot microservices**, **Angular SPAs**, and **REST/gRPC API development** — building systems that are secure, scalable, and maintainable.
 
 - 🔭 Currently at **Malomatia, Doha** — building customs & logistics platforms for government operations
 - 🏗️ Previously at **Contour (Constellation) Software** — microservices with Spring Cloud, gRPC, and Angular 16
